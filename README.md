@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learing on university<br>👯 I’m looking to collaborate with everyone<br>🤝 I’m looking for help with my projects
+🔭 I’m currently learning on university<br>👯 I’m looking to collaborate with everyone<br>🤝 I’m looking for help with my projects
 
 
 # 💻 Tech Stack:
