@@ -1,24 +1,56 @@
-# 💫 About Me:
-🔭 I’m currently learning on university<br>👯 I’m looking to collaborate with everyone<br>🤝 I’m looking for help with my projects
+# Hi 👋, I'm Pham Nguyen Phu Thanh
+### 💻 Software Engineering Student | Aspiring Full-Stack Developer
 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThanhPham2k5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ThanhPham2k5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhPham2k5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThanhPham2k5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ThanhPham2k5&limit=5&theme=dark&combine_all_yearly_contributions=true)
+📍 Based in Ho Chi Minh City, Vietnam  
+🎓 Final-year Software Engineering Student  
+🎯 Seeking Software Engineer / Full-Stack Developer Opportunities  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ThanhPham2k5&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ About Me
+- 🔭 **Currently Focusing On:** Building full-stack web applications with **Next.js** and **Spring Boot**.
+- 🎓 **Core Interests:** Microservices architecture, RESTful API design, Database design, and Clean Architecture.
+- 🚀 **Learning Goal:** Deepening Next.js App Router/SSR capabilities and integrating Spring Cloud/Security ecosystem.
+- 📫 **How to reach me:** [Email Me](mailto:thanhphamnguyenphu2k5@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+#### ⚙️ Backend (Primary Focus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+#### 🌐 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+#### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects (Updating...)
+
+| Project | Tech Stack | Description | Status | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| **Upcoming Full-Stack App** | Next.js, Spring Boot, MySQL | Next-gen web app focusing on SSR, OAuth2, and scalable backend services. | 🚧 In Development | [Repo](https://github.com/ThanhPham2k5/repo-name) |
+| **NestJS / Web API Demo** | NestJS, TypeScript, MongoDB | RESTful APIs built with clean layer structure and basic auth. | ✅ Completed | [Repo](https://github.com/ThanhPham2k5/repo-name) |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThanhPham2k5&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhPham2k5&layout=compact&theme=dark&hide_border=true" height="150" alt="top languages" />
+</p>
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ThanhPham2k5&icon=0&color=0" alt="visitor count" />
+</p>
