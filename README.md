@@ -42,11 +42,3 @@
 | **NestJS / Web API Demo** | NestJS, TypeScript, MongoDB | RESTful APIs built with clean layer structure and basic auth. | ✅ Completed | [Repo](https://github.com/ThanhPham2k5/repo-name) |
 
 ---
-  <img src="https://github-readme-stats.vercel.app/api?username=ThanhPham2k5&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhPham2k5&layout=compact&theme=dark&hide_border=true" height="150" alt="top languages" />
-</p>
-
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ThanhPham2k5&icon=0&color=0" alt="visitor count" />
-</p>
